@@ -1,4 +1,4 @@
-**amazon Connect voicemail to email**
+**Amazon Connect voicemail to email**
 
 Amazon Connect doesn't provide voicemail feature, this project is to implement an voicemail to email
 
