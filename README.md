@@ -19,5 +19,5 @@ To deploy the project (lambda function)
 2. - serverless deploy 
 
 
-![Test Image 6](/master/screenshots/add lambda.png)
+![Test Image 6](https://raw.githubusercontent.com/zhangyuezhong/amazon-connect-voicemail/master/screenshots/add%20lambda.png)
 
