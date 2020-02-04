@@ -19,5 +19,5 @@ To deploy the project (lambda function)
 2. - serverless deploy 
 
 
-![Test Image 6](screenshots/add lambda.png)
+![Test Image 6](/master/screenshots/add lambda.png)
 
