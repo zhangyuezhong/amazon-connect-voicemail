@@ -19,5 +19,8 @@ To deploy the project (lambda function)
 2. - serverless deploy 
 
 
-![Test Image 6](https://raw.githubusercontent.com/zhangyuezhong/amazon-connect-voicemail/master/screenshots/add%20lambda.png)
-
+![Add Lambda](https://raw.githubusercontent.com/zhangyuezhong/amazon-connect-voicemail/master/screenshots/add%20lambda.png)
+![Live Streaming](https://raw.githubusercontent.com/zhangyuezhong/amazon-connect-voicemail/master/screenshots/livemediastream.png)
+![Contact Flow](https://raw.githubusercontent.com/zhangyuezhong/amazon-connect-voicemail/master/screenshots/contactflow.PNG)
+![Get Customer Input](https://raw.githubusercontent.com/zhangyuezhong/amazon-connect-voicemail/master/screenshots/getcustomerinput.PNG)
+![Invoke Lambda](https://raw.githubusercontent.com/zhangyuezhong/amazon-connect-voicemail/master/screenshots/invokelambda.png)
